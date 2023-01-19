@@ -2,7 +2,7 @@
 
 ```javascript
 const ipadhim = {
-  "name": "ipadhim", //not someone's ipad, just liking "him"(Herobrine in Minecraft)
+  "name": "ipadhim", //not someone's ipad, but i like the man called "him"(Herobrine in Minecraft)
   "name-in-github": "ipadhim",
   "pronouns": "homo",
   "e-mail": {
