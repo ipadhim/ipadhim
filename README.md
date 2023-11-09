@@ -1,4 +1,4 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ipadhim&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ipadhim&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 这里是一个可爱的Coder!
 
